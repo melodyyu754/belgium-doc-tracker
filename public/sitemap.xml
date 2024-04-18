@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://neu-khoury-doc.github.io/hugo-blog-template/</loc>
     <lastmod>2024-04-16T05:34:17-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/team_posts/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://neu-khoury-doc.github.io/hugo-blog-template/team_posts/</loc>
     <lastmod>2024-04-16T05:34:17-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/team_posts/welcome/</loc>
-    <lastmod>2024-04-16T05:34:17-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://neu-khoury-doc.github.io/hugo-blog-template/teammember01/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://neu-khoury-doc.github.io/hugo-blog-template/teammember02/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

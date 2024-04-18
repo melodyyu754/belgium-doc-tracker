@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://neu-khoury-doc.github.io/hugo-blog-template/sitemap.xml
