@@ -2,11 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blowfish</title>
-    <link>https://neu-khoury-doc.github.io/hugo-blog-template/tags/</link>
+    <link>http://localhost:1313/hugo-blog-template/tags/</link>
     <description>Recent content in Tags on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <atom:link href="https://neu-khoury-doc.github.io/hugo-blog-template/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/hugo-blog-template/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Authors</title>
+      <link>http://localhost:1313/hugo-blog-template/tags/authors/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hugo-blog-template/tags/authors/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Config</title>
+      <link>http://localhost:1313/hugo-blog-template/tags/config/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hugo-blog-template/tags/config/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Docs</title>
+      <link>http://localhost:1313/hugo-blog-template/tags/docs/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hugo-blog-template/tags/docs/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

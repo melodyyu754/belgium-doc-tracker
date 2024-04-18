@@ -3,24 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://neu-khoury-doc.github.io/hugo-blog-template/</loc>
+    <loc>http://localhost:1313/hugo-blog-template/teammember01/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hugo-blog-template/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hugo-blog-template/teammember01/first/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hugo-blog-template/team_posts/</loc>
     <lastmod>2024-04-16T05:34:17-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://neu-khoury-doc.github.io/hugo-blog-template/team_posts/</loc>
-    <lastmod>2024-04-16T05:34:17-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://neu-khoury-doc.github.io/hugo-blog-template/teammember01/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://neu-khoury-doc.github.io/hugo-blog-template/teammember02/</loc>
+    <loc>http://localhost:1313/hugo-blog-template/teammember02/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
