@@ -1,3 +1,3 @@
-# A New Guy
+# Sonia Sheth
 
-This guys is fake, he doesn't even go to school here.
+Hi! I'm Sonia and am aspiring Software Engineer (I think).
