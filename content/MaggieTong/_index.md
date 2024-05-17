@@ -1,3 +1,5 @@
-# A New Guy
+# Maggie Tong
 
-This guys is fake, he doesn't even go to school here.
+20 years young. Living life. Soul seraching. 
+
+
