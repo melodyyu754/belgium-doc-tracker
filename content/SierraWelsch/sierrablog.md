@@ -9,6 +9,7 @@ authors:
   - "sierra_welsch"
 showAuthorsBadges : false
 ---
+Live laugh love DS 3000 with Dr. Gerber <3
 
 # Piano
 
