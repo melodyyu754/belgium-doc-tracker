@@ -1,7 +1,7 @@
 ---
 title: "Hiking is Fun"
 date: 2024-05-17
-draft: true
+draft: false
 description: "So excited to hike in the summer!"
 # slug: "first"
 tags: ["authors", "config", "docs"]
