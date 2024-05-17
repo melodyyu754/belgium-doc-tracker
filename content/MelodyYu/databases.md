@@ -7,12 +7,9 @@ description: "Databases Rock"
 tags: ["authors", "config", "docs"]
 authors:
   - "mark_fontenot"
-showAuthorsBadges : false
+showAuthorsBadges: false
 ---
 
 # MySQL
 
-So, let's talk about databases. 
-
-
-
+So, let's talk about databases.

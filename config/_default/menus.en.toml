@@ -11,43 +11,43 @@
 # ordered by weight from lowest to highest.
 
 # [[main]]
- # name = "Blog"
- # pageRef = "posts"
- # weight = 10
+# name = "Blog"
+# pageRef = "posts"
+# weight = 10
 
 [[main]]
-  name = "Team Posts"
-  pageRef = "team_posts" 
-  weight = 10
+name = "Team Posts"
+pageRef = "team_posts"
+weight = 10
 
 [[main]]
-  name = "Team Members"
-  weight = 20
+name = "Team Members"
+weight = 20
 
 [[main]]
-  name = "Melody M Yu"
-  parent = "Team Members"
-  pageRef = "MelodyYu"
-  weight = 20
+name = "Melody Yu"
+parent = "Team Members"
+pageRef = "MelodyYu"
+weight = 20
 
 [[main]]
-  name = "Sierra Welsch"
-  parent = "Team Members"
-  pageRef = "SierraWelsch"
-  weight = 20
+name = "Sierra Welsch"
+parent = "Team Members"
+pageRef = "SierraWelsch"
+weight = 20
 
 [[main]]
-  name = "Sonia Sheth"
-  parent = "Team Members"
-  pageRef = "SoniaSheth"
-  weight = 20
+name = "Sonia Sheth"
+parent = "Team Members"
+pageRef = "SoniaSheth"
+weight = 20
 
 [[main]]
-  name = "Maggie Tong"
-  parent = "Team Members"
-  pageRef = "MaggieTong"
-  weight = 20
-  
+name = "Maggie Tong"
+parent = "Team Members"
+pageRef = "MaggieTong"
+weight = 20
+
 #[[main]]
 #  name = "example sub-menu 1"
 #  parent = "Parent"
