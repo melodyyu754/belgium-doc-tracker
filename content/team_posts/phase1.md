@@ -15,7 +15,7 @@ showAuthorsBadges: false
 
 # Introduction
 
-Hi, We are Team CCN!
+Hi, our names are Melody, Sierra, Sonia, and Maggie!
 
 ## Informative Context
 
