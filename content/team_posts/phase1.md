@@ -60,8 +60,8 @@ McGuinness is the current president of the United States running for re-election
 
 ##### User Stories:
 * As a journalist, I want to be able to find historical data and trends on protests relating to abortion rights across the world so that I can compare and contrast historical vs. current data in my article.
-* As a journalist, I want to be able to view protests on both sides to observe the key core values held on each side and compare their impacts. 
-* As a journalist, I want to collect real time data from credible sources to ensure the factual reliability of the information I’m citing. 
+* As a journalist, I want to be able to view protests on both sides so that I observe the key core values held on each side and compare their impacts. 
+* As a journalist, I want to collect real time data from credible sources so that I can ensure the factual reliability of the information I’m citing. 
 
 ## Where are we getting our data from?
 
