@@ -39,7 +39,7 @@ Sally is junior at Columbia University studying International Politics and the v
 * As an activist, I want to use the database to gather current information, such as news articles, on Israel-Palestine protests around the globe so that I can educate myself and peers. 
 * As an activist, I want to be able to post my areas of interests and opinions on the protests so that I can spread awareness, connect with others who share similar views, discuss ongoing campaigns, share resources, and coordinate actions. 
 * As an activist, I want to be able to announce a protest, so that others can be aware and show up to support the cause.
-* As an activist, I want to view protests in various locations around the globe so I can adapt the same concepts and tactics for planning my own protests. 
+* As an activist, I want to view protests in various locations around the globe so that I can adapt the same concepts and tactics for planning my own protests. 
 
 #### Politician
 McGuinness is the current president of the United States running for re-election in the upcoming 2024 ballots. He wants to use the database to determine how to structure his campaign for the upcoming election based on recent media attention regarding social-economic issues.
