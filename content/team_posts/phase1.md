@@ -15,7 +15,7 @@ showAuthorsBadges: false
 
 # Introduction
 
-Hi, We are Team [Think of Team Name Later]!
+Hi, We are Team CCN!
 
 ## Informative Context
 
