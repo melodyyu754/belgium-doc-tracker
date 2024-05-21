@@ -10,6 +10,6 @@ authors:
 showAuthorsBadges : false
 ---
 
-# Welcome to CCN!
+# Welcome to our Blog!
 
 Welcome to the Team's Blog where we will be reporting on the different phases of our project!
