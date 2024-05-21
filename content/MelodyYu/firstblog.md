@@ -1,8 +1,8 @@
 ---
 title: "NATO: Perspectives on Defense and Technology"
-date: 2024-05-19
+date: 2024-05-21
 draft: false
-description: "Trying to understand the black box of defense"
+description: "Trying to understand the black box of defense (and an update on the group project)"
 # slug: "first"
 tags: ["authors", "config", "docs"]
 authors:
@@ -20,5 +20,5 @@ Before visiting NATO, I knew little about the organization other than that it wa
 
 I also thought the session on hybrid attacks and fake news was fascinating. It was especially relevant to me, as the research I do at Northeastern ties closely to online dialogue. One of the professors I work with, Soroush Vosoughi, wrote an article in 2018 about fake news that was cited over 8,000 times. I am currently working on research about intellectual humility, a virtue that seeks to decrease toxicity and polarization - something that fake news tries to sow. I learned about how a big part of the response to these hybrid attacks was the education of those vulnerable, and I think it'd be cool to work on some kind of AI-powered intervention in the future.
 
-## My Contributions to the Group Project
-Since I've worked with github and github pages before, I showed my team how to set up this site. For our project itself, we brainstormed and ... 
+## Aside: My Contributions to the Group Project
+Since I've worked with github and github pages before, I showed my team how to set up this site. For our project itself, we extensively brainstormed together, going through multiple ideas and multiple iterations of our current idea. I took charge on exploring API datasets and testing them out, as well as helped contribute to the project questions and scope. This is a project idea that is so timely to our political (and academic, i.e. Northeastern) climate, and I am excited to learn more about political protests on a larger scale.
