@@ -29,7 +29,7 @@ Our application will focus on major democratic countries, initially targeting th
 
 # Questions We Want To Address
 - What kind of space can be created for activists across the world to come together and organize protests for political change?
-- - Importance: There can be a disconnect between different organizers in different regions/countries, so this platform would be a centralized space where activists can connect and learn from one another, as well as garner support for the causes they are passionate about.
+  - Importance: There can be a disconnect between different organizers in different regions/countries, so this platform would be a centralized space where activists can connect and learn from one another, as well as garner support for the causes they are passionate about.
 - How do a country’s major socioeconomic factors (GDP per capita, Gini coefficient, ​​poverty level) affect the likelihood/rate of political protests in NATO countries?
 Importance: Understanding the relationships between socioeconomic factors and political protests in NATO is important for understanding the causes of political instability. Additionally, we want to see the differences between varying countries and how these factors play a role.  If we know that income inequality is a strong predictor of labor protests, for instance, policymakers can prioritize measures to address economic disparities.
 - How does governmental trust impact the number of political protests? How does governmental trust impact the amount of violent political protests? 
