@@ -22,3 +22,5 @@ I also thought the session on hybrid attacks and fake news was fascinating. It w
 
 ## Aside: My Contributions to the Group Project
 Since I've worked with github and github pages before, I showed my team how to set up this site. For our project itself, we extensively brainstormed together, going through multiple ideas and multiple iterations of our current idea. I took charge on exploring API datasets and testing them out, as well as helped contribute to the project questions and scope. This is a project idea that is so timely to our political (and academic, i.e. Northeastern) climate, and I am excited to learn more about political protests on a larger scale.
+
+![Alt Text](/path/to/assets/kuleuven_photo.jpeg)
