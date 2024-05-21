@@ -35,5 +35,6 @@ Our application will focus on major democratic countries, initially targeting th
 3. How does governmental trust impact the number of political protests? How does governmental trust impact the amount of violent political protests? 
 > **Importance:** Politicians may want to know what the correlation is between their leadership and the political unrest in their area.
 
-
-
+-------
+KU Leuven Israel-Palestine Protest that we saw after dinner (after we had chosen our project!). It was the 7th day of their encampment.
+![Alt Text](/assets/kuleuven_protest.jpeg)
