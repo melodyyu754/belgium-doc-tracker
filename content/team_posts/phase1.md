@@ -69,11 +69,14 @@ Sydney is a reporter for the New York Times hoping to write an unbiased article 
 Our application will focus on major democratic countries, initially targeting the US and EU, with a goal of expanding to other regions in the future. By analyzing data from ACLED, the World Bank, and other APIs, we will employ machine learning models to uncover patterns, predict future trends, and cluster countries based on their unique protest landscapes.
 
 ### Data Sources
- * ACLED (Armed Conflict Location & Event Data Project): This dataset provides detailed information on political violence and protest events worldwide, including the type of event, location, date, and actors involved. (Link: https://acleddata.com/)
-  * It is free, we have already made an account, gotten an API Key, and executed some initial requests which gave us valuable data concerning political protests
- * World Bank Data: This is free + accessible, according to Dr. Gerber. (Link: https://data.worldbank.org/) 
- * News API : This is free and reputable - “News API is a simple, easy-to-use REST API that returns JSON search results for current and historic news articles published by over 150,000 worldwide sources.”. (Link: https://newsapi.org/) 
- * OCED (Organization for Economic Cooperation and Development): Will be specifically used for governmental trust metric.Easily scrapable, I think there is also an OECD API. (Link: https://data.oecd.org/gga/trust-in-government.htm) 
+ * ACLED (Armed Conflict Location & Event Data Project): This dataset provides detailed information on political violence and protest events worldwide, including the type of event, location, date, and actors involved. It is free, we have already made an account, gotten an API Key, and executed some initial requests which gave us valuable data concerning political protests. 
+    * (Link: https://acleddata.com/)
+ * World Bank Data: This is free + accessible, according to Dr. Gerber. 
+    * (Link: https://data.worldbank.org/) 
+ * News API : This is free and reputable - “News API is a simple, easy-to-use REST API that returns JSON search results for current and historic news articles published by over 150,000 worldwide sources.”. 
+    * (Link: https://newsapi.org/) 
+ * OCED (Organization for Economic Cooperation and Development): Will be specifically used for governmental trust metric.Easily scrapable, I think there is also an OECD API. 
+    * (Link: https://data.oecd.org/gga/trust-in-government.htm) 
 
 
 # Questions We Want To Address
