@@ -29,18 +29,18 @@ The model we focused on was the relationship between GDP per capita and protests
 of protests via the ACLED api, joining it with Global Bank Data (population and GDP per capita). We initially started with just a couple of European
 countries, but realized that we needed a wider range of countries and GDP per capitas. We included democratic countries from five continents (North America, South America, Europe, Asia, and Australia).
 
-Worldwide GDP per Capita vs. Protests per Capita
+### Worldwide GDP per Capita vs. Protests per Capita
 ![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczPyITPd3s4OSpKnKKfhjw2BCS_WcIf7ecIM2gBzES4ulvKExynqBG9AanHTEoTMRRq7xlCxafoGWfeag7pvE-SWvIim7osb_EqwEcNZMcxu8W0PdjRm=w2400)
 
 Upon looking at the worldwide graph, we added columns for each area (Western, Asia, South America), and plotted per area as well.
 
-Western GDP per Capita vs. Protests per Capita
+### Western GDP per Capita vs. Protests per Capita
 ![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczNS6yJxxBTQ4IntiRZWyQh9pjkqRhF6T64mYOiXeVp68SWbXgSirA0uSRXRqoCwtKMZ6KXe42xlc5d72yY8158fKoc5-awpa4NHSzOPrnBn_9ixB3tb=w2400)
 
-South America GDP per Capita vs. Protests per Capita
+### South America GDP per Capita vs. Protests per Capita
 ![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczOtSPxumBytDU5wYYlqI0oZWn1IP8m9OjDa6M9T7dpf2gS2Bx9s2FWL99K65ZkPavrcjVgGD5-Ldj-hS__lHSmOm-6_OZ9DRGRof7SInJRap8kOXfES=w2400)
 
-Asia GDP per Capita vs. Protests per Capita
+### Asia GDP per Capita vs. Protests per Capita
 ![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczMMVe45FPeLsKSlSTVElvy3yDc41bu_Jg0R_Crhir5m_qigUQys3q24gVuXe64cDctYRrLALWMcOTViFjc8caL6v9jtN47VeMYz6Rvi6xehLBErtVWN=w2400)
 
 We decided to fit a linear regression model to our data (for the time being).
