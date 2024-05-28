@@ -41,25 +41,11 @@ Upon looking at the worldwide graph, we added columns for each area (Western, As
 
 We decided to fit a linear regression model to our data (for the time being).
 
-## Our application
+![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczMYcVWov80nnXn7gSHc6-YGWUk59IUkHsuYPBYOW85OVEOenw9ZgpSUkNVqzF4jeNOefaWSBEeNFCbv1DCBdMWpVbsiUDDFkCH3lCBlV8h3S2Ap_yJP=w2400)
+With this relationship it shows that when public trust and gdp per capita are 0, the number of protest events per capita is 4.7. When you increase public trust by 1 unit, it decreases the number of protests by 0.9%. When you increase public trust by 1 unit it increases the gdp per capita by 0.002%. There seems to be a slight positive relationship between public trust and the number of protests but not much of a relationship between public trust and gdp per capita. If we add more related features to our model, perhaps this relationship would be stronger as well as making our model more complex. Since these values do not show a strong relationship perhaps we will use a more complex model or try and fit a quadratic line to better model our data for future phases.
 
-### Activist changes
-
-In the first phase, we had the activist’s main functionally be posting for their area of interest and opinions on the protests so they can spread awareness and create dialogue with other activists. We kept this consistent in the second phase but fleshed out the concept more by centering their app interaction around posting and interacting with other activist posts. To organize this information, we implemented the idea of tags by relating them to causes that the activist is following. We also introduced the concept of updating protests so that those following it, whether it be an activist or journalist, can get real time data on user created protests. The activist’s main page will have a sidebar with all the protests within the database listed and then they will have the option to filter through the protests based on the location, time, or issue. They can also toggle from viewing protests to news articles with a similar filtering functionality.
-
-### Journalist changes
-
-The journalist’s main functionality within the first phase was to purely view data, protests and new articles. In the second phase, we are adding the ability of journalists to create posts where they can connect with activists to conduct interviews and poll users on issues. Journalists can also follow/star content of both sides of a protest, sources and articles useful for them and interviews they have scheduled in the rightmost panel.
-
-### Politician changes
-There was not much change in the user stories for the politician between the first and second phase, they are able to select data based on different countries to view statistics on a global scale and observe trends based on this data. They are also able to view protests, news and country data but will not be able to post.
-
-### Our (mostly) finalized functionalities:
-
-1. Protest Database: A searchable, filterable database of protests, allowing users to add, view, and update information about upcoming or past events.
-2. Forum: A platform for activists, politicians, and journalists to share thoughts, insights, and engage in discussions related to activism and social issues. This will look similar to a chronological social media page (think Strava, Reddit), and will also have filtering abilities.
-3. News Querying: A tool to help users search for current news relating to their topic of interest. They can also save news of interest.
-4. Interactive Model: A tool that allows users to interact with the model we’ve created, providing insights or predictions related to activism and social movements.
+Activist Page
+![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczM7mlCdhIiJYA29e-HAUXbfFYMuLyzIE-FOB6-DnX0DNa_c3h77zc1qQjYIhBQR_qJMYjfD6puX4O_3AJJ1dI0_oaY-TlkShFc_6Z1kVJW9e8uWAcP6=w2400)
 
 
 
