@@ -50,8 +50,8 @@ We decided to fit a linear regression model to our data (for the time being).
 ![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczMYcVWov80nnXn7gSHc6-YGWUk59IUkHsuYPBYOW85OVEOenw9ZgpSUkNVqzF4jeNOefaWSBEeNFCbv1DCBdMWpVbsiUDDFkCH3lCBlV8h3S2Ap_yJP=w2400)
 With this relationship it shows that when public trust and gdp per capita are 0, the number of protest events per capita is 4.7. When you increase public trust by 1 unit, it decreases the number of protests by 0.9%. When you increase public trust by 1 unit it increases the gdp per capita by 0.002%. There seems to be a slight positive relationship between public trust and the number of protests but not much of a relationship between public trust and gdp per capita. If we add more related features to our model, perhaps this relationship would be stronger as well as making our model more complex. Since these values do not show a strong relationship perhaps we will use a more complex model or try and fit a quadratic line to better model our data for future phases.
 
-Activist Page
-![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczM7mlCdhIiJYA29e-HAUXbfFYMuLyzIE-FOB6-DnX0DNa_c3h77zc1qQjYIhBQR_qJMYjfD6puX4O_3AJJ1dI0_oaY-TlkShFc_6Z1kVJW9e8uWAcP6=w2400)
+<!-- Activist Page
+![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczM7mlCdhIiJYA29e-HAUXbfFYMuLyzIE-FOB6-DnX0DNa_c3h77zc1qQjYIhBQR_qJMYjfD6puX4O_3AJJ1dI0_oaY-TlkShFc_6Z1kVJW9e8uWAcP6=w2400) -->
 
 
 
