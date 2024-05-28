@@ -13,12 +13,7 @@ authors:
 showAuthorsBadges: false
 ---
 
-## Phase 1 Updates
-
-From our first phase
-Any updates to your Phase I proposal that you decided to make during Phase II work
-Did you modify/change a persona or user story?
-Did you find a new data set that you plan to use for ML modeling?
+# Phase 1 Updates
 
 ## Data
 
