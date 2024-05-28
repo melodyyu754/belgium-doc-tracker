@@ -11,4 +11,4 @@ showAuthorsBadges : false
 ---
 
 # My Contributions 
-For this Phase of the project I worked on cleaning our datasets by getting a subset of columns, replacing the null values with the means, and working on creating data visualizations with our merged datasets. I cleaned a dataset via webscraping and also utilized certain API's to retrieve the data. 
+For this Phase of the project I worked on webscraping and cleaning the government trust dataset from OCED using selenium and transforming the original data to have an observation per country. To clean the data I replaced the null values with the mean of the values that were within the same column of the null value, and working on creating data visualizations with our merged datasets. I also worked with our group to envison what our app screens would look like as well as what type of plots we wanted to come up with.
