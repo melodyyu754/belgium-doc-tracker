@@ -1,4 +1,4 @@
-country,year,public_trust_percentage
+country,event_date,public_trust_percentage
 Australia,2006,53.2
 Austria,2006,49.7
 Belgium,2006,55.2
