@@ -60,11 +60,22 @@ In the following below are the localized ER diagram for our various personas: Jo
 
 ### Journalist ER
 
+Journalist ER
+![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczON6egIFFCIp9Tjxc7mnC4aY7cyIWWUbcTL2ztVDJeQMa3Rz5lUL8eDdlpTE9iu9-u7fCFroXQOOUFALM5eygfb5e94ROZN4okmEzj06V8-6RGIJ9Eq=w2400)
+
 ### Activist ER
+
+Activist ER
+![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczMHZYJOGd137eM6Yoy46PQ6eePLAr9UteEt0x8tLARW-ddCK0jKZrcKX7Y4SvGfcd3yUkovaw-PRwYAuvBC4OCTkegn-0Fl3viwxdLy20txChe1BJXE=w2400)
 
 ### Politician ER
 
+Politician ER
+![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczON6egIFFCIp9Tjxc7mnC4aY7cyIWWUbcTL2ztVDJeQMa3Rz5lUL8eDdlpTE9iu9-u7fCFroXQOOUFALM5eygfb5e94ROZN4okmEzj06V8-6RGIJ9Eq=w2400)
+
 ## Global ER model
+
+![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczNLGqmiJEkCfXM_QGwBhC0moVwDNV8agDPr9VCofO9eV53qcyAm6VAXlvDCbOB8A_hU5jRRDGCX9AZ0n-4dlrTRB6VkKCZXbJeni5kBS-44fvY5SKZ4=w2400)
 
 ## SQL DDL for Global Data Model
 
