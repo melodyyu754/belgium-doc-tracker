@@ -1,5 +1,5 @@
 ---
-title: "Project - Phase 2"
+title: "Project - Phase II"
 date: 2024-05-28
 draft: false
 description: "Updates to Idea"
@@ -15,6 +15,7 @@ showAuthorsBadges: false
 
 ## Phase 1 Updates
 
+From our first phase
 Any updates to your Phase I proposal that you decided to make during Phase II work
 Did you modify/change a persona or user story?
 Did you find a new data set that you plan to use for ML modeling?
@@ -65,14 +66,7 @@ There was not much change in the user stories for the politician between the fir
 3. News Querying: A tool to help users search for current news relating to their topic of interest. They can also save news of interest.
 4. Interactive Model: A tool that allows users to interact with the model we’ve created, providing insights or predictions related to activism and social movements.
 
-### Activist Page
-![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczM7mlCdhIiJYA29e-HAUXbfFYMuLyzIE-FOB6-DnX0DNa_c3h77zc1qQjYIhBQR_qJMYjfD6puX4O_3AJJ1dI0_oaY-TlkShFc_6Z1kVJW9e8uWAcP6=w2400)
 
-### Politician Page
-![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczO7V58dsL9e37-fLE0xD7FK7YReCPdYZ9tffa-09xWY4CSCrk3-WJuK2Q9NbY6xqxzcSHLNZAJXXOiCxjufRasGxQhP54QWMrDDTNhAhliuKj_9pTYH=w2400)
-
-### Journalist Page
-![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczM-kuouqoMCsbXfnG8TGw6uYCOToC-OTKp8g7i0nBKRCVVvYic_GvB8WN9Dh_8wpP7vQ6Mobqxd6TYoCrAhVp2QwTTNIzBOCZqm_wKemX9iJPJlKR9G=w2400)
 
 ## Localized ER Diagrams
 
@@ -104,3 +98,12 @@ Politician ER
 ## Draft WireFrames
 
 Wireframes of each POC - the Journalist, Activist and Politician - were created to depict what various pages of our application will look like.
+
+### Activist Page
+![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczM7mlCdhIiJYA29e-HAUXbfFYMuLyzIE-FOB6-DnX0DNa_c3h77zc1qQjYIhBQR_qJMYjfD6puX4O_3AJJ1dI0_oaY-TlkShFc_6Z1kVJW9e8uWAcP6=w2400)
+
+### Politician Page
+![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczO7V58dsL9e37-fLE0xD7FK7YReCPdYZ9tffa-09xWY4CSCrk3-WJuK2Q9NbY6xqxzcSHLNZAJXXOiCxjufRasGxQhP54QWMrDDTNhAhliuKj_9pTYH=w2400)
+
+### Journalist Page
+![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczM-kuouqoMCsbXfnG8TGw6uYCOToC-OTKp8g7i0nBKRCVVvYic_GvB8WN9Dh_8wpP7vQ6Mobqxd6TYoCrAhVp2QwTTNIzBOCZqm_wKemX9iJPJlKR9G=w2400)

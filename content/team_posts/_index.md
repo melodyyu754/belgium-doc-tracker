@@ -1,5 +1,5 @@
 ---
-title: "Project"
+title: "DOC Project"
 date: 2024-05-11
 draft: false
 description: "Our Idea"
@@ -13,6 +13,6 @@ authors:
 showAuthorsBadges : false
 ---
 
-# Welcome to our Blog!
+## Welcome to our Blog!
 
 Welcome to the Team's Blog where we will be reporting on the different phases of our project!
