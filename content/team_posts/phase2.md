@@ -85,7 +85,7 @@ Activist ER
 ### Politician ER
 
 Politician ER
-![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczON6egIFFCIp9Tjxc7mnC4aY7cyIWWUbcTL2ztVDJeQMa3Rz5lUL8eDdlpTE9iu9-u7fCFroXQOOUFALM5eygfb5e94ROZN4okmEzj06V8-6RGIJ9Eq=w2400)
+![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczPVCKmXqGAT1PIlMiZac1QPGdY0WTerpuC_6wHfmMlKtqNfYa1jhnGCSRmiyGbVf3FrMjmFFDDqV2jcUJkU3GpLjbLsOMVWLAcmZfLoW5JKs_VBSGYO=w2400)
 
 ## Global ER model
 
