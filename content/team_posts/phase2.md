@@ -39,6 +39,12 @@ Upon looking at the worldwide graph, we added columns for each area (Western, As
 ### Asia GDP per Capita vs. Protests per Capita
 ![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczMMVe45FPeLsKSlSTVElvy3yDc41bu_Jg0R_Crhir5m_qigUQys3q24gVuXe64cDctYRrLALWMcOTViFjc8caL6v9jtN47VeMYz6Rvi6xehLBErtVWN=w2400)
 
+### Poverty gap at $2.15 a day vs. Events per Capita
+![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczN_-nDF3_WPWkNWXXdJm8XFSPGR8EKjsadSHvc3c2ZwS-xqAdOAEZ5Do_udRhv5LCtW6ukKB8jXGG_v0Pt9tChqZn6xg8Nwfx3jZdsRK5xqz1h_XgGV=w2400)
+
+### Public Trust of the Government vs GDP per Capita vs Events per Capita
+![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczOosJfgDw-773fBU1D5H0Mf6j-v06GR7ObsNaIYNKanw1jhfBK_e7JSCY0wcF7JLDv9p6DhX2ag4FK6V5hkhbP3OQ9J7v3M1evFbz_J6alVId7mwek0=w2400)
+
 We decided to fit a linear regression model to our data (for the time being).
 
 ![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczMYcVWov80nnXn7gSHc6-YGWUk59IUkHsuYPBYOW85OVEOenw9ZgpSUkNVqzF4jeNOefaWSBEeNFCbv1DCBdMWpVbsiUDDFkCH3lCBlV8h3S2Ap_yJP=w2400)
