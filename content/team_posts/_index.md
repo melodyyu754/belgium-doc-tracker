@@ -1,12 +1,15 @@
 ---
-title: "Project - Phase I"
+title: "Project"
 date: 2024-05-11
 draft: false
 description: "Our Idea"
 tags: ["authors", "config", "docs"]
 slug: "index"
 authors:
-  - "eric_gerber"
+  - "melody_yu"
+  - "sierra_welsch"
+  - "sonia_sheth"
+  - "maggie_tong"
 showAuthorsBadges : false
 ---
 
