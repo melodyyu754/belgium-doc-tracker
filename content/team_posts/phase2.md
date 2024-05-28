@@ -53,7 +53,7 @@ In this graph we noticed there was not much of a clear relationship between peop
 ### Public Trust of the Government vs GDP per Capita vs Events per Capita
 ![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczOosJfgDw-773fBU1D5H0Mf6j-v06GR7ObsNaIYNKanw1jhfBK_e7JSCY0wcF7JLDv9p6DhX2ag4FK6V5hkhbP3OQ9J7v3M1evFbz_J6alVId7mwek0=w2400)
 
-In this graph we noticed an increase in events per capita per increase in gdp per capita up per public trust percentage although it has high variability.(?)This could indicate that public trust and gdp per capita together are positively correlated with events per capita although it is not the clearest upwards line.
+In this graph we noticed a linear increase in events per capita per increase in gdp per capita up per public trust percentage although there are some points that do not follow this patttern. This could indicate that public trust and gdp per capita together both are positively correlated with events per capita although it is not the clearest increasing shape of a line.
 
 ### Linear Regression
 We decided to fit a linear regression model to our data (for the time being).
