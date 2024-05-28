@@ -1,0 +1,698 @@
+country,year,public_trust_percentage
+Australia,2006,53.2
+Austria,2006,49.7
+Belgium,2006,55.2
+Brazil,2006,34.1
+Canada,2006,44.3
+Chile,2006,58.1
+Colombia,2006,48.1
+Costa Rica,2006,37.9
+Czechia,2006,28.3
+Denmark,2006,66.9
+Estonia,2006,44.2
+Finland,2006,75.8
+France,2006,32.5
+Germany,2006,32.2
+Greece,2006,48.8
+Hungary,2006,36.1
+Iceland,2006,23.8
+Ireland,2006,63.3
+Israel,2006,34.2
+Italy,2006,23.9
+Japan,2006,35.0
+Korea,2006,22.6
+Latvia,2006,29.1
+Lithuania,2006,20.6
+Luxembourg,2006,82.4
+Mexico,2006,42.6
+Netherlands,2006,42.9
+New Zealand,2006,62.6
+Norway,2006,68.3
+Poland,2006,6.9
+Portugal,2006,45.2
+Russia,2006,37.0
+Slovak Republic,2006,16.3
+Slovenia,2006,47.8
+South Africa,2006,60.2
+Spain,2006,52.8
+Sweden,2006,44.1
+Switzerland,2006,63.2
+Türkiye,2006,59.6
+United Kingdom,2006,49.5
+United States,2006,55.8
+Australia,2007,52.7
+Austria,2007,37.7
+Belgium,2007,60.2
+Brazil,2007,38.3
+Canada,2007,63.8
+Chile,2007,42.6
+Colombia,2007,51.2
+Costa Rica,2007,44.6
+Czechia,2007,26.9
+Denmark,2007,59.3
+Estonia,2007,42.0
+Finland,2007,74.05
+France,2007,36.1
+Germany,2007,35.0
+Greece,2007,38.1
+Hungary,2007,25.0
+Iceland,2007,23.8
+Ireland,2007,57.349999999999994
+Israel,2007,21.8
+Italy,2007,30.3
+Japan,2007,24.0
+Korea,2007,23.9
+Latvia,2007,28.1
+Lithuania,2007,26.9
+Luxembourg,2007,82.4
+Mexico,2007,41.8
+Netherlands,2007,66.2
+New Zealand,2007,58.6
+Norway,2007,61.2
+Poland,2007,18.8
+Portugal,2007,39.6
+Russia,2007,37.4
+Slovak Republic,2007,23.6
+Slovenia,2007,42.3
+South Africa,2007,65.9
+Spain,2007,47.6
+Sweden,2007,56.2
+Switzerland,2007,60.5
+Türkiye,2007,55.8
+United Kingdom,2007,36.4
+United States,2007,39.3
+Australia,2008,64.5
+Austria,2008,25.7
+Belgium,2008,46.3
+Brazil,2008,51.1
+Canada,2008,59.0
+Chile,2008,40.5
+Colombia,2008,63.5
+Costa Rica,2008,36.1
+Czechia,2008,31.2
+Denmark,2008,66.6
+Estonia,2008,33.1
+Finland,2008,72.3
+France,2008,45.3
+Germany,2008,43.2
+Greece,2008,34.85
+Hungary,2008,20.0
+Iceland,2008,23.8
+Ireland,2008,51.4
+Israel,2008,18.4
+Italy,2008,36.3
+Japan,2008,22.1
+Korea,2008,27.3
+Latvia,2008,19.1
+Lithuania,2008,16.1
+Luxembourg,2008,82.4
+Mexico,2008,41.4
+Netherlands,2008,61.7
+New Zealand,2008,46.5
+Norway,2008,54.1
+Poland,2008,28.5
+Portugal,2008,34.0
+Russia,2008,55.8
+Slovak Republic,2008,27.25
+Slovenia,2008,39.55
+South Africa,2008,46.1
+Spain,2008,58.0
+Sweden,2008,51.7
+Switzerland,2008,59.15
+Türkiye,2008,59.8
+United Kingdom,2008,32.4
+United States,2008,37.9
+Australia,2009,62.75
+Austria,2009,48.1
+Belgium,2009,40.0
+Brazil,2009,42.7
+Canada,2009,60.8
+Chile,2009,57.5
+Colombia,2009,44.0
+Costa Rica,2009,52.1
+Czechia,2009,35.5
+Denmark,2009,62.7
+Estonia,2009,22.4
+Finland,2009,59.25
+France,2009,47.4
+Germany,2009,53.3
+Greece,2009,31.6
+Hungary,2009,22.6
+Iceland,2009,24.75
+Ireland,2009,29.3
+Israel,2009,40.4
+Italy,2009,40.0
+Japan,2009,25.2
+Korea,2009,27.0
+Latvia,2009,10.0
+Lithuania,2009,12.6
+Luxembourg,2009,79.6
+Mexico,2009,44.6
+Netherlands,2009,62.650000000000006
+New Zealand,2009,55.2
+Norway,2009,60.2
+Poland,2009,31.2
+Portugal,2009,28.2
+Russia,2009,55.0
+Slovak Republic,2009,29.075
+Slovenia,2009,36.8
+South Africa,2009,52.2
+Spain,2009,42.4
+Sweden,2009,59.0
+Switzerland,2009,57.8
+Türkiye,2009,57.2
+United Kingdom,2009,38.4
+United States,2009,50.3
+Australia,2010,61.0
+Austria,2010,49.2
+Belgium,2010,33.7
+Brazil,2010,51.1
+Canada,2010,55.1
+Chile,2010,47.9
+Colombia,2010,55.2
+Costa Rica,2010,53.3
+Czechia,2010,31.2
+Denmark,2010,58.7
+Estonia,2010,32.099999999999994
+Finland,2010,46.2
+France,2010,40.1
+Germany,2010,39.5
+Greece,2010,23.7
+Hungary,2010,25.2
+Iceland,2010,25.225
+Ireland,2010,33.3
+Israel,2010,44.9
+Italy,2010,33.4
+Japan,2010,27.0
+Korea,2010,32.4
+Latvia,2010,10.35
+Lithuania,2010,11.5
+Luxembourg,2010,76.8
+Mexico,2010,37.2
+Netherlands,2010,63.6
+New Zealand,2010,63.9
+Norway,2010,63.25
+Poland,2010,35.6
+Portugal,2010,24.5
+Russia,2010,51.5
+Slovak Republic,2010,30.9
+Slovenia,2010,33.2
+South Africa,2010,59.4
+Spain,2010,30.3
+Sweden,2010,60.3
+Switzerland,2010,67.4
+Türkiye,2010,54.6
+United Kingdom,2010,50.4
+United States,2010,41.8
+Australia,2011,53.1
+Austria,2011,40.7
+Belgium,2011,28.9
+Brazil,2011,50.3
+Canada,2011,55.3
+Chile,2011,32.3
+Colombia,2011,44.6
+Costa Rica,2011,32.3
+Czechia,2011,20.6
+Denmark,2011,47.2
+Estonia,2011,41.8
+Finland,2011,56.5
+France,2011,37.5
+Germany,2011,42.5
+Greece,2011,17.5
+Hungary,2011,36.0
+Iceland,2011,25.4625
+Ireland,2011,52.9
+Israel,2011,27.1
+Italy,2011,26.0
+Japan,2011,23.1
+Korea,2011,28.3
+Latvia,2011,10.7
+Lithuania,2011,18.1
+Luxembourg,2011,77.1
+Mexico,2011,38.3
+Netherlands,2011,60.3
+New Zealand,2011,63.5
+Norway,2011,64.775
+Poland,2011,27.2
+Portugal,2011,21.0
+Russia,2011,48.0
+Slovak Republic,2011,27.9
+Slovenia,2011,18.2
+South Africa,2011,62.7
+Spain,2011,30.9
+Sweden,2011,63.9
+Switzerland,2011,72.2
+Türkiye,2011,59.6
+United Kingdom,2011,46.8
+United States,2011,38.3
+Australia,2012,42.0
+Austria,2012,37.7
+Belgium,2012,44.0
+Brazil,2012,45.6
+Canada,2012,52.3
+Chile,2012,34.3
+Colombia,2012,35.7
+Costa Rica,2012,28.0
+Czechia,2012,17.0
+Denmark,2012,53.4
+Estonia,2012,27.3
+Finland,2012,59.8
+France,2012,44.1
+Germany,2012,51.7
+Greece,2012,12.6
+Hungary,2012,21.0
+Iceland,2012,25.7
+Ireland,2012,34.6
+Israel,2012,34.4
+Italy,2012,28.1
+Japan,2012,16.9
+Korea,2012,23.1
+Latvia,2012,19.1
+Lithuania,2012,14.6
+Luxembourg,2012,74.4
+Mexico,2012,36.1
+Netherlands,2012,57.5
+New Zealand,2012,61.5
+Norway,2012,66.3
+Poland,2012,26.9
+Portugal,2012,23.1
+Russia,2012,45.2
+Slovak Republic,2012,36.8
+Slovenia,2012,23.8
+South Africa,2012,42.6
+Spain,2012,33.9
+Sweden,2012,62.6
+Switzerland,2012,77.0
+Türkiye,2012,53.1
+United Kingdom,2012,42.1
+United States,2012,34.9
+Australia,2013,45.6
+Austria,2013,41.7
+Belgium,2013,55.4
+Brazil,2013,33.4
+Canada,2013,50.6
+Chile,2013,30.7
+Colombia,2013,29.3
+Costa Rica,2013,26.2
+Czechia,2013,24.3
+Denmark,2013,39.1
+Estonia,2013,26.1
+Finland,2013,42.1
+France,2013,39.5
+Germany,2013,55.8
+Greece,2013,14.4
+Hungary,2013,32.8
+Iceland,2013,45.7
+Ireland,2013,28.5
+Israel,2013,45.1
+Italy,2013,14.6
+Japan,2013,35.8
+Korea,2013,34.9
+Latvia,2013,23.4
+Lithuania,2013,38.4
+Luxembourg,2013,73.7
+Mexico,2013,39.6
+Netherlands,2013,54.3
+New Zealand,2013,54.4
+Norway,2013,68.15
+Poland,2013,16.4
+Portugal,2013,17.9
+Russia,2013,38.8
+Slovak Republic,2013,28.3
+Slovenia,2013,16.3
+South Africa,2013,51.0
+Spain,2013,18.5
+Sweden,2013,58.0
+Switzerland,2013,76.1
+Türkiye,2013,53.8
+United Kingdom,2013,37.9
+United States,2013,28.9
+Australia,2014,46.5
+Austria,2014,40.8
+Belgium,2014,46.9
+Brazil,2014,35.5
+Canada,2014,51.7
+Chile,2014,40.0
+Colombia,2014,29.8
+Costa Rica,2014,40.4
+Czechia,2014,34.0
+Denmark,2014,45.8
+Estonia,2014,41.5
+Finland,2014,46.9
+France,2014,26.4
+Germany,2014,60.1
+Greece,2014,18.8
+Hungary,2014,30.8
+Iceland,2014,44.2
+Ireland,2014,46.0
+Israel,2014,44.4
+Italy,2014,30.9
+Japan,2014,38.0
+Korea,2014,28.4
+Latvia,2014,22.9
+Lithuania,2014,34.5
+Luxembourg,2014,66.3
+Mexico,2014,32.8
+Netherlands,2014,52.5
+New Zealand,2014,63.0
+Norway,2014,70.0
+Poland,2014,25.3
+Portugal,2014,22.7
+Russia,2014,64.0
+Slovak Republic,2014,31.0
+Slovenia,2014,17.7
+South Africa,2014,48.8
+Spain,2014,21.1
+Sweden,2014,56.3
+Switzerland,2014,75.2
+Türkiye,2014,55.6
+United Kingdom,2014,42.3
+United States,2014,34.9
+Australia,2015,47.9
+Austria,2015,45.5
+Belgium,2015,45.9
+Brazil,2015,19.9
+Canada,2015,64.4
+Chile,2015,30.0
+Colombia,2015,27.2
+Costa Rica,2015,26.1
+Czechia,2015,43.5
+Denmark,2015,58.0
+Estonia,2015,33.7
+Finland,2015,55.8
+France,2015,32.8
+Germany,2015,62.8
+Greece,2015,43.7
+Hungary,2015,27.9
+Iceland,2015,42.7
+Ireland,2015,57.2
+Israel,2015,40.5
+Italy,2015,26.1
+Japan,2015,35.3
+Korea,2015,26.5
+Latvia,2015,29.9
+Lithuania,2015,36.7
+Luxembourg,2015,69.5
+Mexico,2015,25.6
+Netherlands,2015,58.0
+New Zealand,2015,62.1
+Norway,2015,58.7
+Poland,2015,21.1
+Portugal,2015,21.8
+Russia,2015,64.9
+Slovak Republic,2015,27.7
+Slovenia,2015,20.3
+South Africa,2015,58.4
+Spain,2015,27.8
+Sweden,2015,49.9
+Switzerland,2015,78.8
+Türkiye,2015,48.6
+United Kingdom,2015,45.7
+United States,2015,34.7
+Australia,2016,45.3
+Austria,2016,43.3
+Belgium,2016,41.9
+Brazil,2016,26.4
+Canada,2016,61.8
+Chile,2016,20.4
+Colombia,2016,26.1
+Costa Rica,2016,27.9
+Czechia,2016,41.5
+Denmark,2016,46.8
+Estonia,2016,34.0
+Finland,2016,48.6
+France,2016,28.4
+Germany,2016,55.3
+Greece,2016,13.2
+Hungary,2016,30.4
+Iceland,2016,36.4
+Ireland,2016,57.5
+Israel,2016,43.8
+Italy,2016,23.8
+Japan,2016,36.2
+Korea,2016,23.7
+Latvia,2016,31.5
+Lithuania,2016,28.0
+Luxembourg,2016,67.9
+Mexico,2016,27.8
+Netherlands,2016,57.2
+New Zealand,2016,57.0
+Norway,2016,65.8
+Poland,2016,38.3
+Portugal,2016,35.5
+Russia,2016,58.4
+Slovak Republic,2016,37.2
+Slovenia,2016,25.0
+South Africa,2016,48.3
+Spain,2016,30.3
+Sweden,2016,48.6
+Switzerland,2016,79.9
+Türkiye,2016,58.4
+United Kingdom,2016,40.9
+United States,2016,29.7
+Australia,2017,45.3
+Austria,2017,43.6
+Belgium,2017,45.0
+Brazil,2017,16.5
+Canada,2017,65.3
+Chile,2017,26.8
+Colombia,2017,22.2
+Costa Rica,2017,40.7
+Czechia,2017,34.4
+Denmark,2017,57.2
+Estonia,2017,40.6
+Finland,2017,59.8
+France,2017,37.5
+Germany,2017,62.3
+Greece,2017,14.0
+Hungary,2017,37.8
+Iceland,2017,36.5
+Ireland,2017,60.4
+Israel,2017,38.9
+Italy,2017,23.0
+Japan,2017,41.2
+Korea,2017,35.9
+Latvia,2017,26.4
+Lithuania,2017,32.1
+Luxembourg,2017,73.9
+Mexico,2017,25.7
+Netherlands,2017,67.0
+New Zealand,2017,60.9
+Norway,2017,71.7
+Poland,2017,50.2
+Portugal,2017,50.1
+Russia,2017,55.7
+Slovak Republic,2017,34.2
+Slovenia,2017,24.0
+South Africa,2017,42.3
+Spain,2017,27.0
+Sweden,2017,55.9
+Switzerland,2017,82.0
+Türkiye,2017,58.6
+United Kingdom,2017,44.0
+United States,2017,38.7
+Australia,2018,46.9
+Austria,2018,48.9
+Belgium,2018,44.2
+Brazil,2018,16.8
+Canada,2018,61.0
+Chile,2018,33.5
+Colombia,2018,27.5
+Costa Rica,2018,48.0
+Czechia,2018,42.1
+Denmark,2018,63.2
+Estonia,2018,42.0
+Finland,2018,55.5
+France,2018,38.1
+Germany,2018,59.3
+Greece,2018,15.7
+Hungary,2018,38.8
+Iceland,2018,44.3
+Ireland,2018,61.8
+Israel,2018,42.2
+Italy,2018,20.7
+Japan,2018,38.5
+Korea,2018,38.9
+Latvia,2018,19.7
+Lithuania,2018,32.4
+Luxembourg,2018,75.5
+Mexico,2018,29.5
+Netherlands,2018,65.7
+New Zealand,2018,64.2
+Norway,2018,68.0
+Poland,2018,42.8
+Portugal,2018,52.1
+Russia,2018,45.6
+Slovak Republic,2018,32.8
+Slovenia,2018,23.9
+South Africa,2018,52.5
+Spain,2018,28.5
+Sweden,2018,49.4
+Switzerland,2018,85.0
+Türkiye,2018,51.4
+United Kingdom,2018,42.1
+United States,2018,31.4
+Australia,2019,46.9
+Austria,2019,51.2
+Belgium,2019,32.8
+Brazil,2019,34.1
+Canada,2019,54.9
+Chile,2019,15.3
+Colombia,2019,32.8
+Costa Rica,2019,28.3
+Czechia,2019,37.0
+Denmark,2019,63.3
+Estonia,2019,40.3
+Finland,2019,63.9
+France,2019,38.2
+Germany,2019,56.8
+Greece,2019,39.6
+Hungary,2019,48.4
+Iceland,2019,52.1
+Ireland,2019,58.1
+Israel,2019,49.6
+Italy,2019,22.2
+Japan,2019,41.1
+Korea,2019,37.7
+Latvia,2019,23.9
+Lithuania,2019,40.7
+Luxembourg,2019,78.0
+Mexico,2019,49.5
+Netherlands,2019,61.7
+New Zealand,2019,67.5
+Norway,2019,59.8
+Poland,2019,49.8
+Portugal,2019,43.6
+Russia,2019,43.7
+Slovak Republic,2019,23.1
+Slovenia,2019,39.7
+South Africa,2019,49.6
+Spain,2019,36.8
+Sweden,2019,51.3
+Switzerland,2019,80.7
+Türkiye,2019,56.1
+United Kingdom,2019,34.1
+United States,2019,36.3
+Australia,2020,44.6
+Austria,2020,62.6
+Belgium,2020,29.5
+Brazil,2020,36.2
+Canada,2020,60.0
+Chile,2020,17.1
+Colombia,2020,37.4
+Costa Rica,2020,29.8
+Czechia,2020,31.9
+Denmark,2020,71.6
+Estonia,2020,46.5
+Finland,2020,80.9
+France,2020,41.0
+Germany,2020,65.4
+Greece,2020,39.7
+Hungary,2020,42.9
+Iceland,2020,59.2
+Ireland,2020,58.8
+Israel,2020,38.9
+Italy,2020,37.5
+Japan,2020,42.3
+Korea,2020,44.8
+Latvia,2020,30.7
+Lithuania,2020,47.4
+Luxembourg,2020,78.0
+Mexico,2020,45.9
+Netherlands,2020,78.1
+New Zealand,2020,62.9
+Norway,2020,82.9
+Poland,2020,27.3
+Portugal,2020,61.5
+Russia,2020,47.8
+Slovak Republic,2020,30.7
+Slovenia,2020,45.3
+South Africa,2020,51.8
+Spain,2020,38.2
+Sweden,2020,67.1
+Switzerland,2020,84.6
+Türkiye,2020,55.3
+United Kingdom,2020,34.7
+United States,2020,46.5
+Australia,2021,51.9
+Austria,2021,61.0
+Belgium,2021,47.3
+Brazil,2021,32.7
+Canada,2021,61.0
+Chile,2021,23.2
+Colombia,2021,28.9
+Costa Rica,2021,31.5
+Czechia,2021,28.4
+Denmark,2021,65.2
+Estonia,2021,51.9
+Finland,2021,71.4
+France,2021,43.4
+Germany,2021,60.5
+Greece,2021,40.2
+Hungary,2021,41.7
+Iceland,2021,63.4
+Ireland,2021,62.3
+Israel,2021,44.0
+Italy,2021,35.4
+Japan,2021,29.1
+Korea,2021,43.4
+Latvia,2021,29.5
+Lithuania,2021,30.4
+Luxembourg,2021,78.0
+Mexico,2021,48.3
+Netherlands,2021,58.5
+New Zealand,2021,63.5
+Norway,2021,77.4
+Poland,2021,25.9
+Portugal,2021,57.6
+Russia,2021,45.7
+Slovak Republic,2021,21.6
+Slovenia,2021,33.9
+South Africa,2021,50.9
+Spain,2021,37.2
+Sweden,2021,63.4
+Switzerland,2021,83.8
+Türkiye,2021,42.6
+United Kingdom,2021,39.5
+United States,2021,40.5
+Australia,2022,49.9
+Austria,2022,61.0
+Belgium,2022,57.2
+Brazil,2022,39.2
+Canada,2022,50.7
+Chile,2022,28.7
+Colombia,2022,29.7
+Costa Rica,2022,60.0
+Czechia,2022,34.1
+Denmark,2022,63.5
+Estonia,2022,50.8
+Finland,2022,77.5
+France,2022,43.4
+Germany,2022,60.8
+Greece,2022,25.6
+Hungary,2022,44.2
+Iceland,2022,51.5
+Ireland,2022,62.3
+Israel,2022,44.0
+Italy,2022,35.4
+Japan,2022,43.1
+Korea,2022,43.4
+Latvia,2022,29.5
+Lithuania,2022,30.4
+Luxembourg,2022,78.0
+Mexico,2022,52.9
+Netherlands,2022,47.2
+New Zealand,2022,51.4
+Norway,2022,63.6
+Poland,2022,34.2
+Portugal,2022,58.9
+Russia,2022,45.7
+Slovak Republic,2022,21.6
+Slovenia,2022,45.1
+South Africa,2022,50.9
+Spain,2022,37.2
+Sweden,2022,68.8
+Switzerland,2022,83.8
+Türkiye,2022,42.6
+United Kingdom,2022,39.5
+United States,2022,31.0
