@@ -28,22 +28,32 @@ countries, but realized that we needed a wider range of countries and GDP per ca
 ### Worldwide GDP per Capita vs. Protests per Capita
 ![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczPyITPd3s4OSpKnKKfhjw2BCS_WcIf7ecIM2gBzES4ulvKExynqBG9AanHTEoTMRRq7xlCxafoGWfeag7pvE-SWvIim7osb_EqwEcNZMcxu8W0PdjRm=w2400)
 
-Upon looking at the worldwide graph, we added columns for each area (Western, Asia, South America), and plotted per area as well.
+Upon looking at the worldwide graph, we added columns for each geographical area (Western, Asia, South America), and plotted per area as well.
 
 ### Western GDP per Capita vs. Protests per Capita
 ![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczNS6yJxxBTQ4IntiRZWyQh9pjkqRhF6T64mYOiXeVp68SWbXgSirA0uSRXRqoCwtKMZ6KXe42xlc5d72yY8158fKoc5-awpa4NHSzOPrnBn_9ixB3tb=w2400)
 
+In this graph we noticed an increase in events per capita per increase in gdp per capita up until gdp per capital reached 40k and then noticed another interval of increase from 40k to 60k.
+
 ### South America GDP per Capita vs. Protests per Capita
 ![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczOtSPxumBytDU5wYYlqI0oZWn1IP8m9OjDa6M9T7dpf2gS2Bx9s2FWL99K65ZkPavrcjVgGD5-Ldj-hS__lHSmOm-6_OZ9DRGRof7SInJRap8kOXfES=w2400)
+
+In this graph we noticed an obvious increase in events per capita per increase in gdp per capita up until gdp per capital reached 20k. This shows a positive correlation between gdp and number of protests which we found interesting as a 3rd world country.
 
 ### Asia GDP per Capita vs. Protests per Capita
 ![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczMMVe45FPeLsKSlSTVElvy3yDc41bu_Jg0R_Crhir5m_qigUQys3q24gVuXe64cDctYRrLALWMcOTViFjc8caL6v9jtN47VeMYz6Rvi6xehLBErtVWN=w2400)
 
+In this graph we noticed a slight increase in events per capita per increase in gdp per capita for each country respectively but there is not as much data for countries in Asia to state a clear relationship. 
+
 ### Poverty gap at $2.15 a day vs. Events per Capita
 ![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczN_-nDF3_WPWkNWXXdJm8XFSPGR8EKjsadSHvc3c2ZwS-xqAdOAEZ5Do_udRhv5LCtW6ukKB8jXGG_v0Pt9tChqZn6xg8Nwfx3jZdsRK5xqz1h_XgGV=w2400)
 
+In this graph we noticed there was not much of a clear relationship between people making less than or equal to $2.15 a day (in poverty) and number of protest events. This told us that this indicator is likely a bad measure of determining the amount of protests in an area.
+
 ### Public Trust of the Government vs GDP per Capita vs Events per Capita
 ![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczOosJfgDw-773fBU1D5H0Mf6j-v06GR7ObsNaIYNKanw1jhfBK_e7JSCY0wcF7JLDv9p6DhX2ag4FK6V5hkhbP3OQ9J7v3M1evFbz_J6alVId7mwek0=w2400)
+
+In this graph we noticed an increase in events per capita per increase in gdp per capita up per public trust percentage although it has high variability.(?)This could indicate that public trust and gdp per capita together are positively correlated with events per capita although it is not the clearest upwards line.
 
 ### Linear Regression
 We decided to fit a linear regression model to our data (for the time being).
