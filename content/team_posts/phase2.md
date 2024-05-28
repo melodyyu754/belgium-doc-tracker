@@ -45,13 +45,33 @@ Asia GDP per Capita vs. Protests per Capita
 
 We decided to fit a linear regression model to our data (for the time being).
 
-Activist Page
+## Our application
+
+### Activist changes
+
+In the first phase, we had the activist’s main functionally be posting for their area of interest and opinions on the protests so they can spread awareness and create dialogue with other activists. We kept this consistent in the second phase but fleshed out the concept more by centering their app interaction around posting and interacting with other activist posts. To organize this information, we implemented the idea of tags by relating them to causes that the activist is following. We also introduced the concept of updating protests so that those following it, whether it be an activist or journalist, can get real time data on user created protests. The activist’s main page will have a sidebar with all the protests within the database listed and then they will have the option to filter through the protests based on the location, time, or issue. They can also toggle from viewing protests to news articles with a similar filtering functionality.
+
+### Journalist changes
+
+The journalist’s main functionality within the first phase was to purely view data, protests and new articles. In the second phase, we are adding the ability of journalists to create posts where they can connect with activists to conduct interviews and poll users on issues. Journalists can also follow/star content of both sides of a protest, sources and articles useful for them and interviews they have scheduled in the rightmost panel.
+
+### Politician changes
+There was not much change in the user stories for the politician between the first and second phase, they are able to select data based on different countries to view statistics on a global scale and observe trends based on this data. They are also able to view protests, news and country data but will not be able to post.
+
+### Our (mostly) finalized functionalities:
+
+1. Protest Database: A searchable, filterable database of protests, allowing users to add, view, and update information about upcoming or past events.
+2. Forum: A platform for activists, politicians, and journalists to share thoughts, insights, and engage in discussions related to activism and social issues. This will look similar to a chronological social media page (think Strava, Reddit), and will also have filtering abilities.
+3. News Querying: A tool to help users search for current news relating to their topic of interest. They can also save news of interest.
+4. Interactive Model: A tool that allows users to interact with the model we’ve created, providing insights or predictions related to activism and social movements.
+
+### Activist Page
 ![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczM7mlCdhIiJYA29e-HAUXbfFYMuLyzIE-FOB6-DnX0DNa_c3h77zc1qQjYIhBQR_qJMYjfD6puX4O_3AJJ1dI0_oaY-TlkShFc_6Z1kVJW9e8uWAcP6=w2400)
 
-Politician Page
+### Politician Page
 ![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczO7V58dsL9e37-fLE0xD7FK7YReCPdYZ9tffa-09xWY4CSCrk3-WJuK2Q9NbY6xqxzcSHLNZAJXXOiCxjufRasGxQhP54QWMrDDTNhAhliuKj_9pTYH=w2400)
 
-Journalist Page
+### Journalist Page
 ![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczM-kuouqoMCsbXfnG8TGw6uYCOToC-OTKp8g7i0nBKRCVVvYic_GvB8WN9Dh_8wpP7vQ6Mobqxd6TYoCrAhVp2QwTTNIzBOCZqm_wKemX9iJPJlKR9G=w2400)
 
 ## Localized ER Diagrams
@@ -78,14 +98,9 @@ Politician ER
 ![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczNLGqmiJEkCfXM_QGwBhC0moVwDNV8agDPr9VCofO9eV53qcyAm6VAXlvDCbOB8A_hU5jRRDGCX9AZ0n-4dlrTRB6VkKCZXbJeni5kBS-44fvY5SKZ4=w2400)
 
 ## SQL DDL for Global Data Model
+
 ![Alt Text](https://lh3.googleusercontent.com/pw/AP1GczNiSii5cuO1IIqk-EUHQSlHX7VZ7V3TdB1dQWTmPfEFiURUBFiWvzjpZjZKgcXPVJBcc5Utn7OYI2DeMLZs4YqzPiOdtOX3KtnKcwYMohy3JZVyhjaR=w2400)
 
 ## Draft WireFrames
 
 Wireframes of each POC - the Journalist, Activist and Politician - were created to depict what various pages of our application will look like.
-
-### Journalist Page
-
-### Activist Page
-
-### Politician Page
