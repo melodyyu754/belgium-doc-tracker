@@ -15,6 +15,19 @@ showAuthorsBadges: false
 
 # Phase 1 Updates
 
+In the first phase, we had the activist’s main functionally be posting for their area of interest and opinions on the protests so they can spread awareness and create dialogue with other activists. We kept this consistent in the second phase but fleshed out the concept more by centering their app interaction around posting and interacting with other activist posts. To organize this information, we implemented the idea of tags by relating them to causes that the activist is following. We also introduced the concept of updating protests so that those following it, whether it be an activist or journalist, can get real time data on user created protests. The activist’s main page will have a sidebar with all the protests within the database listed and then they will have the option to filter through the protests based on the location, time, or issue. They can also toggle from viewing protests to news articles with a similar filtering functionality.
+
+The journalist’s main functionality within the first phase was to purely view data, protests and new articles. In the second phase, we are adding the ability of journalists to create posts where they can connect with activists to conduct interviews and poll users on issues. Journalists can also follow/star content of both sides of a protest, sources and articles useful for them and interviews they have scheduled in the rightmost panel.
+
+There was not much change in the user stories for the politician between the first and second phase, they are able to select data based on different countries to view statistics on a global scale and observe trends based on this data. They are also able to view protests, news and country data but will not be able to post.
+
+Our (mostly) finalized functionalities:
+Protest Database: A searchable, filterable database of protests, allowing users to add, view, and update information about upcoming or past events.
+Forum: A platform for activists, politicians, and journalists to share thoughts, insights, and engage in discussions related to activism and social issues. This will look similar to a chronological social media page (think Strava, Reddit), and will also have filtering abilities.
+News Querying: A tool to help users search for current news relating to their topic of interest. They can also save news of interest.
+Interactive Model: A tool that allows users to interact with the model we’ve created, providing insights or predictions related to activism and social movements.
+
+
 ## Data
 
 Phase II team blog post sections cont’d:
