@@ -22,10 +22,10 @@ The journalist’s main functionality within the first phase was to purely view 
 There was not much change in the user stories for the politician between the first and second phase, they are able to select data based on different countries to view statistics on a global scale and observe trends based on this data. They are also able to view protests, news and country data but will not be able to post.
 
 Our (mostly) finalized functionalities:
-Protest Database: A searchable, filterable database of protests, allowing users to add, view, and update information about upcoming or past events.
-Forum: A platform for activists, politicians, and journalists to share thoughts, insights, and engage in discussions related to activism and social issues. This will look similar to a chronological social media page (think Strava, Reddit), and will also have filtering abilities.
-News Querying: A tool to help users search for current news relating to their topic of interest. They can also save news of interest.
-Interactive Model: A tool that allows users to interact with the model we’ve created, providing insights or predictions related to activism and social movements.
+1. Protest Database: A searchable, filterable database of protests, allowing users to add, view, and update information about upcoming or past events.
+2. Forum: A platform for activists, politicians, and journalists to share thoughts, insights, and engage in discussions related to activism and social issues. This will look similar to a chronological social media page (think Strava, Reddit), and will also have filtering abilities.
+3. News Querying: A tool to help users search for current news relating to their topic of interest. They can also save news of interest.
+4. Interactive Model: A tool that allows users to interact with the model we’ve created, providing insights or predictions related to activism and social movements.
 
 
 ## Data
