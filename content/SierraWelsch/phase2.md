@@ -1,5 +1,5 @@
 ---
-title: "Phase 2 Contributions"
+title: "Phase 2 Reflection"
 date: 2024-05-17
 draft: false
 description: "Reflection for Individual Phase 1 Assignment"
