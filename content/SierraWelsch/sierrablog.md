@@ -1,5 +1,5 @@
 ---
-title: ""Phase 1 Reflection""
+title: "Phase 1 Reflection"
 date: 2024-05-17
 draft: false
 description: "Reflection for Individual Phase 1 Assignment"
