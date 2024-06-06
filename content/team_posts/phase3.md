@@ -49,6 +49,24 @@ The majority of our data in the proof of concept is mock data. This is because o
 ### ML Model 1 and Explanation
 
 TODO: (Sierra) What features are we using for the ML model? Provide reasonable explanation why those features are the chosen ones. Discuss any major/surprising issues found during model exploration.
+For predicting the number of protests events per capita in a desired country we chose three key features: public trust of their government, GDP per capita, and whether the country is Western, Asian, or South American. These features are used in our linear regression model.
+
+- Public Trust in the Government: This reflects citizens' confidence in their government, distinguishing countries based on political and social trust metrics.
+- GDP per Capita: This indicates economic prosperity and helps group countries with similar economic structures and living standards.
+- Region: This indicates where this country is located in the world to identify groups of countries of similar economic structure, government, and culture. The country is classified as one of Western (The US, Canada, and European countries), Asian (countries in Asia), and South American (countries in South America).
+
+How does our linear regression model work?
+1. Initialization: 
+- Use cross validation to split the data into training and testing sets 
+- Add an interaction term between GDP per capita and public trust due to them being highly correlated to capture how these features interact in predicting protests events per capita
+- Add additional polynomial features (to the 2nd and 3rd degree) for public trust and GDP per capita to capture non-linear relationships between these features and protests events per capita
+- All of these features are combined into a single matrix (training data) and linear regression is used for fitting the model to this data, outputing the line of best fit 
+2. Predict: Takes in each of the features the user is supposed to input (public trust, GDP per capita, and region), standardizes them, and puts each feature value into a vector to correspond to the slopes of the line of best fit. The vector includes the following values:
+- Scaled public trust percentage
+- Scaled GDP per capita
+- Polynomial features (to the 2nd and 3rd degree) of both features
+- Categorical features encoded as 1 for the selected region and 0 for others
+It multiplies the input vector with the line of best fit vector (coefficients) to get the predicted value (estimated events per capita).
 
 ### ML Model 2 and Explanation
 
