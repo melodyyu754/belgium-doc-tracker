@@ -22,7 +22,8 @@ During this phase of the project, we started the development of the final applic
 ## Data Model
 
 ### Updates/Modifications to our data model
-During this phase for our data model, we mostly made minor changes. We fixed some issues with our data model (cascading issues), we made country name the primary key of country, we added an article name and publication date for a news article. 
+
+During this phase for our data model, we mostly made minor changes. We fixed some issues with our data model (cascading issues), we made country name the primary key of country, we added an article name and publication date for a news article.
 
 ### Bulleted list of all tables and if data will be sourced or generated
 
@@ -65,9 +66,10 @@ How does k-means clustering work?
 4. Convergence: Repeat the assignment and update steps until centroids stabilize or a set number of iterations is reached.
 
 #### Cluster results
+
 Cluster 0
 ['Brazil' 'Chile' 'Colombia' 'Costa Rica' 'Estonia' 'Greece' 'Hungary'
- 'Japan' 'Latvia' 'Lithuania' 'Mexico' 'Poland' 'Portugal' 'Slovenia']
+'Japan' 'Latvia' 'Lithuania' 'Mexico' 'Poland' 'Portugal' 'Slovenia']
 
 Cluster 1
 ['France' 'Iceland' 'Israel' 'Italy' 'Spain' 'Sweden']
@@ -77,11 +79,9 @@ Cluster 2
 
 Cluster 3
 ['Australia' 'Austria' 'Belgium' 'Canada' 'Denmark' 'Finland' 'Germany'
- 'Netherlands' 'Switzerland' 'United Kingdom' 'United States']
+'Netherlands' 'Switzerland' 'United Kingdom' 'United States']
 
-
-![A cute cat](assets/output.jpg)
-
+![alt text](https://lh3.googleusercontent.com/pw/AP1GczMvL5DE6k3tmitaXrLGjrCzXYRyCYbADulf5dvGrDsNCkVMULCPHdxjPpUlKxM5MvfHROvDvh6Q0_5gIAsLdz0im3pUkwqEXnFhA4FEuko7xISke-Qx=w2400)
 
 ## API Routes
 
@@ -148,7 +148,9 @@ POST “api/ml/model2”
 Provide screenshots of the mocked up app and results of the implemented functionality, including calling the ML model.
 
 1. Home page select user
+![image](https://i.imgur.com/Pi4ftz6.png)
 2. View posts
+
 3. Update/delete post page
 
 Screenshots to come (sorry!) - stay tuned for demo.
