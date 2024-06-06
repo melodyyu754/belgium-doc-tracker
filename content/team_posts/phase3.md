@@ -57,16 +57,24 @@ For predicting the number of protests events per capita in a desired country we 
 
 How does our linear regression model work?
 1. Initialization: 
-- Use cross validation to split the data into training and testing sets 
-- Add an interaction term between GDP per capita and public trust due to them being highly correlated to capture how these features interact in predicting protests events per capita
-- Add additional polynomial features (to the 2nd and 3rd degree) for public trust and GDP per capita to capture non-linear relationships between these features and protests events per capita
-- All of these features are combined into a single matrix (training data) and linear regression is used for fitting the model to this data, outputing the line of best fit 
+* Use cross validation to split the data into training and testing sets 
+* Add an interaction term between GDP per capita and public trust due to them being highly correlated to capture how these features interact in predicting protests events per capita
+* Add additional polynomial features (to the 2nd and 3rd degree) for public trust and GDP per capita to capture non-linear relationships between these features and protests events per capita
+* All of these features are combined into a single matrix (training data) and linear regression is used for fitting the model to this data, outputing the line of best fit 
 2. Predict: Takes in each of the features the user is supposed to input (public trust, GDP per capita, and region), standardizes them, and puts each feature value into a vector to correspond to the slopes of the line of best fit. The vector includes the following values:
-- Scaled public trust percentage
-- Scaled GDP per capita
-- Polynomial features (to the 2nd and 3rd degree) of both features
-- Categorical features encoded as 1 for the selected region and 0 for others
+* Scaled public trust percentage
+* Scaled GDP per capita
+* Polynomial features (to the 2nd and 3rd degree) of both features
+* Categorical features encoded as 1 for the selected region and 0 for others
 It multiplies the input vector with the line of best fit vector (coefficients) to get the predicted value (estimated events per capita).
+
+![alt text](https://i.imgur.com/aR7LPxs.png)
+![alt text](https://i.imgur.com/DD4HUpK.png)
+![alt text](https://i.imgur.com/pkilmdV.png)
+![alt text](https://i.imgur.com/y5MpPHv.png)
+![alt text](https://i.imgur.com/pukWP8W.png)
+![alt text](https://i.imgur.com/t9JbJBF.png)
+![alt text](https://i.imgur.com/dJqL43P.png)
 
 ### ML Model 2 and Explanation
 
