@@ -69,12 +69,19 @@ How does our linear regression model work?
 It multiplies the input vector with the line of best fit vector (coefficients) to get the predicted value (estimated events per capita).
 
 ![alt text](https://i.imgur.com/aR7LPxs.png)
+Residual vs. Index: I did not notice much of a pattern in the residuals so I believe the no autocorrelation assumption can be met.
 ![alt text](https://i.imgur.com/DD4HUpK.png)
+Residual vs. Public Trust Percentage: Most of the residuals are centered around 0 but there are a few outliers in which my model underpredict when public trust percentage is high. This could be due to not having enough training data that included high public trust percentages.
 ![alt text](https://i.imgur.com/pkilmdV.png)
+Residuals vs GDP per Capita: Most of the residuals are centered around 0 but there is 1 outlier in which my model underpredict when gdp per capita is extremely above average. This could be due to not having enough training data that included very high gdp per capita values.
 ![alt text](https://i.imgur.com/y5MpPHv.png)
+Residuals vs Western: Since this feature is categorical, it makes sense that the residuals are only scattered at x = 0 and x = 1 and are centered around 0.
 ![alt text](https://i.imgur.com/pukWP8W.png)
+Residuals vs Asia: Since this feature is categorical, it makes sense that the residuals are only scattered at x = 0 and x = 1. While most of the residuals are centered around 0 for the residuals where x = 0 above and below 0 on the y axis, the spread of residuals is much wider when predicting a country to be not asian vs asian. This could be due to a training data imbalance of not having as many Asian countries information. 
 ![alt text](https://i.imgur.com/t9JbJBF.png)
+Residuals vs South America: Since this feature is categorical, it makes sense that the residuals are only scattered at x = 0 and x = 1. While most of the residuals are centered around 0 for the residuals where x = 0, there are more residuals below 0 than above 0 where x = 1 which means my model is underpredicting. This could be due to a training data imbalance not having as many South American countries information. 
 ![alt text](https://i.imgur.com/dJqL43P.png)
+Residuals vs Public Trust x GDP per Capita: Most of the residuals are centered around 0 but there are 3 outliers where public trust x gdp per capita are very high and my model underpredicts. This makes sense as a similiar relationship was shown in the residuals vs GDP per Capita graph, showing that GDP per Capita influences the residuals behavior in this graph.
 
 ### ML Model 2 and Explanation
 
