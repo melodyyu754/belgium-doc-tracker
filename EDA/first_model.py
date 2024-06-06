@@ -7,6 +7,7 @@ import numpy as np
 
 df_scaled = pd.read_csv("EDA/data_scaled.csv")
 df_not_scaled = pd.read_csv("EDA/all_data_revised.csv")
+lobf = initialize()
 
 def linear_regression(X, y):
     """performs the linear perceptron algorithm which takes in an original X matrix and a y vector
@@ -91,7 +92,6 @@ def initialize():
     return lobf
 
 def predict(public_trust_input, gdp_per_capita_input, region_input):
-        lobf = initialize()
         public_trust_input_scaled = ((public_trust_input - df_not_scaled['public_trust_percentage'].mean()) / df_not_scaled['public_trust_percentage'].std()).round(3)
         print(public_trust_input_scaled)
         gdp_per_capita_input_scaled = ((gdp_per_capita_input - df_not_scaled['gdp_per_capita'].mean()) / df_not_scaled['gdp_per_capita'].std()).round(3)
@@ -134,4 +134,4 @@ def predict(public_trust_input, gdp_per_capita_input, region_input):
         prediction = np.matmul(input_vector, lobf)
         return prediction
 
-print(predict(51.9, 63000, 'Western'))
+#print(predict(51.9, 63000, 'Western'))
