@@ -1,3 +1,15 @@
+---
+title: "Phase 3 Reflection"
+date: 2024-06-07
+draft: false
+description: "Reflection for Individual Phase 3 Assignment"
+# slug: "first"
+tags: ["authors", "config", "docs"]
+authors:
+  - "sierra_welsch"
+showAuthorsBadges : false
+---
+
 ## Phase 3: Reflection
 This week of the dialogue was very fun. I really enjoyed our time in Luxembourg and I felt I got closer to a lot more of my classmates on the trip. Dr. Gerber, some of my peers, and I went on a 6 mile hike South of Luxembourg on Saturday and I really enjoyed it. Although I enjoy going for walks and being out in nature, I had never hiked before so I was nervous about how long the hike was but it felt like it was over before I knew it. We saw so many beautiful views of fields, greenery, and the hills of Luxembourg. I think it might have been my favorite day on this dialogue so far. On Sunday, I went biking under the bridge close to the hotel which was also a lot of fun. I had not biked in a while so it was nice to try again, despite having fallen twice! I am glad that we got to spend the weekend in Luxembourg,  celebrate Sonia and Sydney's birthday, and have a few days off to truly explore.
 
