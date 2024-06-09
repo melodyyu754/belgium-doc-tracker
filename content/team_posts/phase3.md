@@ -47,8 +47,6 @@ The majority of our data in the proof of concept is mock data. This is because o
 ## Machine Learning Models
 
 ### ML Model 1 and Explanation
-
-TODO: (Sierra) What features are we using for the ML model? Provide reasonable explanation why those features are the chosen ones. Discuss any major/surprising issues found during model exploration.
 For predicting the number of protests events per capita in a desired country we chose three key features: public trust of their government, GDP per capita, and whether the country is Western, Asian, or South American. These features are used in our linear regression model.
 
 - Public Trust in the Government: This reflects citizens' confidence in their government, distinguishing countries based on political and social trust metrics.
