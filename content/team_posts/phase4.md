@@ -3,7 +3,7 @@ title: "Project - Phase IV"
 date: 2024-06-10
 draft: false
 description: "Rallify - Final Application"
-slug: "phase3post"
+slug: "phase4post"
 tags: ["authors", "config", "docs"]
 authors:
   - "melody_yu"
