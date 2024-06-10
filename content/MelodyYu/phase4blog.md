@@ -20,11 +20,10 @@ I also helped with the creation of the 'cards' - instead of displaying all of ou
 
 Overall, I really enjoyed working on this project. It was really cool to see the entire project come together, and I feel like I have a good grasp on the codebase and how everything interacts.
 
-### Resume
+### Model 2 notebook
+All EDA and code for our models are located in our [blog post repo](https://github.com/melodyyu754/belgium-doc-tracker), in the EDA folder.
 
+### Resume
 Rallify (MySQL, Flask, Streamlit)
 - Developed a data-driven, containerized web application empowering political protests globally.
 - Implemented key features enabling international comparison, k-means clustering, and customizable filtering of data.
-
-### Model 2 notebook
-<a href="./model2.ipynb" download>Link Text</a>
