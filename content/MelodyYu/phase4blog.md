@@ -20,7 +20,7 @@ I also helped with the creation of the 'cards' - instead of displaying all of ou
 
 Overall, I really enjoyed working on this project. It was really cool to see the entire project come together, and I feel like I have a good grasp on the codebase and how everything interacts.
 
-### Model 2 notebook
+### Notebook files
 All EDA and code for our models are located in our [blog post repo](https://github.com/melodyyu754/belgium-doc-tracker), in the EDA folder.
 
 ### Resume
