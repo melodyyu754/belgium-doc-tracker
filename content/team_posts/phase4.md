@@ -15,8 +15,8 @@ showAuthorsBadges: false
 
 ## Rallify: A Data-Driven Full-Stack Platform Empowering Political Protest Movements
 
-[Link to Slides](https://www.canva.com/design/DAGHr9sBBb8/Dwsu94wwmwl9ciVbCAOmkQ/edit?utm_content=DAGHr9sBBb8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-[Link to Project Repo](https://github.com/melodyyu754/belgium-doc-tracker)
+<a href="https://www.canva.com/design/DAGHr9sBBb8/Dwsu94wwmwl9ciVbCAOmkQ/edit?utm_content=DAGHr9sBBb8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Link to Slides</a><br>
+<a href="https://github.com/melodyyu754/belgium-doc-tracker">Link to Project Repo</a>
 
 ### Executive Summary
 
