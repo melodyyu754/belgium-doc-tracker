@@ -27,4 +27,4 @@ Rallify (MySQL, Flask, Streamlit)
 - Implemented key features enabling international comparison, k-means clustering, and customizable filtering of data.
 
 ### Model 2 notebook
-[here](./model2.ipynb)
+<a href="./model2.ipynb" download>Link Text</a>
