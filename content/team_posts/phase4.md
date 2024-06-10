@@ -15,6 +15,8 @@ showAuthorsBadges: false
 
 ## Rallify: A Data-Driven Full-Stack Platform Empowering Political Protest Movements
 
+[Link to Slides](https://www.canva.com/design/DAGHr9sBBb8/Dwsu94wwmwl9ciVbCAOmkQ/edit?utm_content=DAGHr9sBBb8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ### Executive Summary
 
 Rallify is a full-stack application designed to empower political protest movements by fostering community, facilitating organization, and providing data-driven insights for effective action. The platform offers a suite of tools tailored to the unique needs of activists, journalists, and politicians, addressing critical challenges in coordination, communication, and strategic planning.
