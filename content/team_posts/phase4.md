@@ -13,9 +13,7 @@ authors:
 showAuthorsBadges: false
 ---
 
-## Phase 4
-
-### Rallify: A Data-Driven Full-Stack Platform Empowering Political Protest Movements
+## Rallify: A Data-Driven Full-Stack Platform Empowering Political Protest Movements
 
 ### Executive Summary
 
