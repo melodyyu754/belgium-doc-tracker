@@ -25,3 +25,6 @@ Overall, I really enjoyed working on this project. It was really cool to see the
 Rallify (MySQL, Flask, Streamlit)
 - Developed a data-driven, containerized web application empowering political protests globally.
 - Implemented key features enabling international comparison, k-means clustering, and customizable filtering of data.
+
+### Model 2 notebook
+[here](./model2.ipynb)
