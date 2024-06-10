@@ -130,24 +130,34 @@ For predicting the number of protest events and protest events per 100,000 peopl
 - Categorical features encoded as 1 for the selected region and 0 for others (Western, Asian, and South American)
 
 It multiplies the input vector with the line of best fit vector (coefficients) to get the predicted value (estimated events per 100,000 people).
+
 TODO: Insert image here
 Residuals vs. Predicted Values: The points are randomly scattered around y = 0 (residuals = 0) which is good but the spread is much wider for predicted values above 0 than below indicating heteroscedasticity.
+
 TODO: Insert image here
 Residual vs. Index: We did not notice a pattern in the residuals so we believe the no autocorrelation assumption can be met.
+
 TODO: Insert image here
 Y vs Predicted Values: the points are relatively clustered around the line y = predicted_values but some are widely spread above and below this line (weakly clustered). Despite this, overall, this line captures the linear trend shown.
+
 TODO: Insert image here
 Histogram of Residuals Plot: The residuals are skewed to the left which indicates heteroscedasticity. This means the standard deviations of a predicted variable, monitored over different values of an independent variable or as related to prior time periods, are non-constant. Going forward, to address this in my model I would look into implementing the weighted least squares method into my model. This method assigns weights to each data point based on the estimated variance of the residuals. These weights are inversely proportional to the estimated variance of the residual for that point. Data points with higher estimated variance (farther away from the predicted line) receive lower weights and data points with lower estimated variance (closer to the predicted line) receive higher weights to give less emphasis to data points with high variance and more emphasis to those with lower variance. This should address the issue of non-constant variance (heteroscedasticity).
+
 TODO: Insert image here
 Residual vs. Public Trust Percentage: Most of the residuals are centered around 0 but there are a few outliers in which my model overpredicts and underpredicts when public trust percentage is high. This could be due to not having enough data that included very high public trust in government percentages (5-10 standard deviations above the mean). But, it also makes sense that the model does not predict data that has public trust percentages 5-10 standard deviations above and below the mean very well.
+
 TODO: Insert image here
 Residuals vs GDP per Capita: Most of the residuals are centered around 0 but there are a few outliers in which my model mostly underpredicted the value when gdp per capita becomes 10-30 standard deviations above the mean. (ASK ABOUT THIS) This could be due to not having enough training data that included very high gdp per capita values. But, it also makes sense that the model does not predict data that has public trust percentages 10-30 standard deviations above and below the mean very well.
+
 TODO: Insert image here
 Residuals vs Western: Since this feature is categorical, it makes sense that the residuals are only scattered at x = 0 and x = 1 and are centered around 0 with a relatively even spread. This implies homoscedasticity.
+
 TODO: Insert image here
 Residuals vs Asia: Since this feature is categorical, it makes sense that the residuals are only scattered at x = 0 and x = 1. While most of the residuals are centered around residuals = 0 and have an even spread, the spread of residuals is much wider when predicting a country to be not asian vs asian. This could be due to a training data imbalance of not having as many Asian countries information.
+
 TODO: Insert image here
 Residuals vs South America: Since this feature is categorical, it makes sense that the residuals are only scattered at x = 0 and x = 1. While most of the residuals are centered around 0 for the residuals where x = 0, there are more residuals below 0 than above 0 where x = 1 which means my model is over predicting but these points are not that far from residuals = 0. This could be due to a training data imbalance not having as many South American countries information.
+
 TODO: Insert image here
 Residuals vs Population: Most of the residuals are centered around 0 and despite there being a few clusters of outliers where population is very high above the mean, the residuals are still relatively centered around 0.
 
