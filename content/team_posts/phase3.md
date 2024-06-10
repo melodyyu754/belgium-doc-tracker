@@ -136,7 +136,7 @@ DELETE “api/post/{postId}”
 
 ### Protests
 
-GET “api/protest/”
+GET “api/prtsts/protests”
 
 - Gets all protests
 
@@ -160,7 +160,7 @@ POST “api/user/saved_protest”
 
 ### Countries
 
-GET “api/country/”
+GET “api/cntry/countries”
 
 - Gets all countries
 
