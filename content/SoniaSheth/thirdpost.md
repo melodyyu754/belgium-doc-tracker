@@ -18,6 +18,6 @@ Immediately after hiking, we caught a bus back and trammed to the hotel, where I
 
 I am 21! I walked 30,000 steps! What a day! 
     
-# Phase II Contribution 
+# Phase III Contribution 
 For this Phase of the project, the first thing I worked on was mocking up all our mock data in mockeroo. I worked on finalizing our CREATE tables and incorported any feedback into out ER diagrams. This included adding some attributes and also changing the primary key for country. After mocking up the data, I had to convert the jsons to insert statements, which I achieved by created a Python script. Following this, I ran our tables and insert statements in DataGrip. This process took some time because it caught all my errors I made with data types when originally mocking up the data. After getting it all to pass/run, I added our tables and SQL insert statements to our project.
 Once creating the mock data, I worked on creating the GET and POST routes for our protests blueprints. When fleshing out the POST route, I ran into quite a few issues, starting with connection issues with the web-api and then formatting the SQL insert statement correctly. 
