@@ -16,4 +16,10 @@ I've very sad to be leaving Leuven. It's been great form friendships with everyo
 
 
 ## Contributions
-My contributions in the final phase of the project included creating the filtering for posts, protests and the protest maps. I also created the interactive protest map that allowed users to get protest information after clicking on a point. My final contribution was creating and resolving merge conflicts 
+My contributions in the final phase of the project included creating the filtering for posts, protests and the protest maps. I also created the interactive protest map that allowed users to get protest information after clicking on a point. My final contribution was creating and resolving merge conflicts. 
+
+## Resume/Portfolio bullets 
+
+- Created full-stack application utilizing Flask, Docker and Streamlit. 
+- Designed database model and created RESTapi routes 
+- Implemented data filtering and interactive map feature 
