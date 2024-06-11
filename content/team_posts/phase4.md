@@ -100,9 +100,13 @@ Relationships:
 - protest_likes: Many to Many relationship representing the protests each user has ‘liked/saved’ and the users who have liked specific posts
 - news_likes: Many to Many relationship representing the users who have liked specific news articles and each news article a user has ‘liked/saved’
 
+#### Final ER Diagram 
+![alt text](https://imgur.com/a/FmZ85xV)
+
 #### Database Model Evolution
 
 Prior to designing our initial data model, our team spent adequate time planning our user stories and the functionalities we wanted to serve. Hence, our first data model was very concrete. Additional updates to the model included the addition / removal of some simple attributes, such as adding a publication date to the news articles and splitting name for the user into first name and last name. Other than that, all the relationships and core entities remained the same.
+
 
 ### Machine Learning Models
 
