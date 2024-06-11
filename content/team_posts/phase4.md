@@ -101,7 +101,7 @@ Relationships:
 - news_likes: Many to Many relationship representing the users who have liked specific news articles and each news article a user has ‘liked/saved’
 
 #### Final ER Diagram 
-![alt text](https://imgur.com/a/FmZ85xV)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ZqXxQCE" data-context="false" ><a href="//imgur.com/a/ZqXxQCE"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 #### Database Model Evolution
 
